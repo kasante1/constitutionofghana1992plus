@@ -1,0 +1,54 @@
+site_name: Constitution of Ghana 1992+
+site_url: https://constitutionofghana1992plus/
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features: 
+  - header.autohide
+  - navigation.instant
+
+markdown_extensions:
+  - attr_list
+
+nav:
+  - Welcome: 'index.md'
+  - Preamble: 'preamble.md'
+  - Chapter One: 'Chapter One.md'
+  - Chapter Two: 'Chapter Two.md'
+  - Chapter Three: 'Chapter Three.md'
+  - Chapter Four: 'Chapter Four.md'
+  - Chapter Five: 'Chapter Five.md'
+  - Chapter Six: 'Chapter Six.md'
+  - Chapter  Seven: 'Chapter  Seven.md'
+  - Chapter Eight: 'Chapter Eight.md'
+  - Chapter Nine: 'Chapter Nine.md'
+  - Chapter Ten: 'Chapter Ten.md'
+  - Chapter Eleven: 'Chapter Eleven.md'
+  - Chapter Twelve: 'Chapter Twelve.md'
+  - Chapter Thirteen: 'Chapter Thirteen.md'
+  - Chapter Fourteen: 'Chapter Fourteen.md'
+  - Chapter Fifteen: 'Chapter Fifteen.md'
+  - Chapter Sixteen: 'Chapter Sixteen.md'
+  - Chapter Seventeen: 'Chapter Seventeen.md'
+  - Chapter Eighteen: 'Chapter Eighteen.md'
+  - Chapter Nineteen: 'Chapter Nineteen.md'
+  - Chapter Twenty: 'Chapter Twenty.md'
+  - Chapter Twenty-One: 'Chapter Twenty-One.md'
+  - Chapter Twenty-Two: 'Chapter Twenty-Two.md'
+  - Chapter Twenty-Three: 'Chapter Twenty-Three.md'
+  - Chapter Twenty-Four: 'Chapter Twenty-Four.md'
+  - Chapter Twenty-Five: 'Chapter Twenty-Five.md'
+  - Chapter Twenty-Six: 'Chapter Twenty-Six.md'
+  - First Schedule: 'First Schedule.md'
+  - Second Schedule: 'Second Schedule.md'
+
+plugins:
+  - search
